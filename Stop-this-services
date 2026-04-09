@@ -1,0 +1,13 @@
+1] SysMain (formerly Superfetch): Preloads apps into memory. Disabling it is recommended for PCs with SSDs to reduce unnecessary disk usage.
+
+2] Connected User Experiences and Telemetry: Sends usage data to Microsoft, often consuming resources unnecessarily.
+
+3] Windows Search: Indexing can cause high CPU/RAM usage. If you do not use Windows search to find files frequently, disabling it can improve speed.
+
+4] Program Compatibility Assistant Service: Scans older apps for compatibility issues, which can affect system responsiveness.
+
+5] Windows Update Delivery Optimization: Shares update files with other PCs, taking up network bandwidth.
+
+6] Windows Biometric Service: Can be disabled if you don't use facial recognition or fingerprint login.
+
+7] Print Spooler: Safe to disable if you never use a printer. 
