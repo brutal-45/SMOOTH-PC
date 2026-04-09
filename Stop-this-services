@@ -11,3 +11,9 @@
 6] Windows Biometric Service: Can be disabled if you don't use facial recognition or fingerprint login.
 
 7] Print Spooler: Safe to disable if you never use a printer. 
+
+8] Bitlocker Drive Encryption Service : BDESVC hosts the BitLocker Drive Encryption service. 
+
+9] Remote Desktop services : Allows users to connect interactively to a remote compute.
+
+10] Windows Error Reporting Service : Allows errors to be reported when programs stop working or responding and allows existing solutions to be delivered.
