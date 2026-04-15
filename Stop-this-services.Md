@@ -7,7 +7,7 @@ TIP : - Do for all services same method.
 
 1] SysMain (formerly Superfetch): Preloads apps into memory. Disabling it is recommended for PCs with SSDs to reduce unnecessary disk usage.
 
-2] Connected User Experiences and Telemetry: Sends usage data to Microsoft, often consuming resources unnecessarily.
+2] Connected User Experiences and Telemetry: Sends usage data to Microsoft, often consuming resources unnecessarily. 
 
 3] Windows Search: Indexing can cause high CPU/RAM usage. If you do not use Windows search to find files frequently, disabling it can improve speed.
 
