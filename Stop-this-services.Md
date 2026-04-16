@@ -1,5 +1,3 @@
-<div aling="center"
-
 
 STEP : - Press windows kwy + R and Type services.msc and For scroll to service Press First Letter Of Service Just Like Any Service here below is the example. 
 
