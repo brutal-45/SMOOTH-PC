@@ -6,7 +6,7 @@ Example : For SysMain Press S and locate the sevice Sysmain and the sevice can b
 TIP : - Do for all services same method.
 
 
-1] SysMain (formerly Superfetch): Preloads apps into memory. Disabling it is recommended for PCs with SSDs to reduce unnecessary disk usage.
+1] SysMain (formerly Superfetch): Preloads apps into memory. Disabling it is recommended for PCs with SSDs to reduce unnecessary disk usage. 
 
 2] Connected User Experiences and Telemetry: Sends usage data to Microsoft, often consuming resources unnecessarily. 
 
