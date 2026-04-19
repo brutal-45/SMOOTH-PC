@@ -3,7 +3,7 @@
   # SMOOTH-PC
 
     
-HERE THINGS TO SMOOTH PC
+HERE THINGS TO SMOOTH PC 
 
 
 Please Read Carefully all steps.  
