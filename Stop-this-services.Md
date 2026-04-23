@@ -14,7 +14,7 @@ TIP : - Do for all services same method.
 
 4] Program Compatibility Assistant Service: Scans older apps for compatibility issues, which can affect system responsiveness.
 
-5] Windows Update Delivery Optimization: Shares update files with other PCs, taking up network bandwidth.
+5] Windows Update Delivery Optimization: Shares update files with other PCs, taking up network bandwidth. 
 
 6] Windows Biometric Service: Can be disabled if you don't use facial recognition or fingerprint login.
 
