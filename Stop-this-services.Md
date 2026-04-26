@@ -25,3 +25,5 @@ TIP : - Do for all services same method.
 9] Remote Desktop services : Allows users to connect interactively to a remote compute.
 
 10] Windows Error Reporting Service : Allows errors to be reported when programs stop working or responding and allows existing solutions to be delivered.
+
+When you completed this process open task manager go head to cpu and cheack the handlers and processes it can be below 50,000 and 150 around.
