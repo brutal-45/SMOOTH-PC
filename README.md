@@ -16,5 +16,5 @@
 
  2. **Prompts For Generate Images** → [prompts](./Prompts/)
 
- 3.  **For All Tv Channel** → [Tv](./tv.md/)
+ 3.  **For All Tv Channel** → [Tv](./tv.md/) 
  
