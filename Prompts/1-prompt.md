@@ -7,4 +7,3 @@ Enhance the portrait while strictly preserving the subject's identity with accur
 **NEGATIVE INSTRUCTIONS:** No new background. No background change. No overly dramatic lighting. No face morphing. No fake glow. No flat lighting. No over-smooth skin.
  
 ##   (tip:- Use Gemini Pro Model or any pro image generator For Better Experience)
- 
