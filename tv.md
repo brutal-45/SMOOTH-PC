@@ -1,2 +1,2 @@
-https://iptv-org.github.io/iptv/index.m3u 
+https://github.com/brutal-45/iptv-source
  
