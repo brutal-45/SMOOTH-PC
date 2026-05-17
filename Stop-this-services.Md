@@ -24,7 +24,7 @@ TIP : - Do for all services same method.
 
 9] Remote Desktop services : Allows users to connect interactively to a remote compute.
 
-10] Windows Error Reporting Service : Allows errors to be reported when programs stop working or responding and allows existing solutions to be delivered.
+10] Windows Error Reporting Service : Allows errors to be reported when programs stop working or responding and allows existing solutions to be delivered. 
 
 11] Windows Search : This Service Help To Search Easily But Already Windows Search Work Proper Which Is not Impoertant And So It Takes More RAM , CPU , Much More Uses On Your Pc.
 
