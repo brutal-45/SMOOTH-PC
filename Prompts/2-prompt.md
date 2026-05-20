@@ -1,4 +1,4 @@
-# Here The Prompt For Upscaling Photo With Help OF Google Gemini .
+# Here The Prompt For Upscaling Photo With Help OF Google Gemini.
 
 USE THIS PROMPT FOR UPSCALING ANY PHOTO 
 
