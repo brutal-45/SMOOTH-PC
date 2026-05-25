@@ -3,7 +3,7 @@ STEP : - Press windows key + R and Type services.msc and For scroll to service P
 
 Example : For SysMain Press S and locate the sevice Sysmain and the sevice can be automatic or Manual There Select Disable And Toggle to Stop option Under section And just apply and ok To Save selection.
  
-TIP : - Do for all services same method. 
+TIP : - Do for all services same method.
 
  
 1] SysMain (formerly Superfetch): Preloads apps into memory. Disabling it is recommended for PCs with SSDs to reduce unnecessary disk usage. 
