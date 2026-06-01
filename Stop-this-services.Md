@@ -1,7 +1,7 @@
  
 STEP : - Press windows key + R and Type services.msc and For scroll to service Press First Letter Of Service Just Like Any Service here  the example.
 
-Example : For SysMain Press S and locate the sevice Sysmain and the sevice can be automatic or Manual There Select Disable And Toggle to Stop option Under section And just apply and ok To Save selection. 
+Example : For SysMain Press S and locate the sevice Sysmain and the sevice can be automatic or Manual There Select Disable And Toggle to Stop option Under section And just apply and ok To Save selection.
  
 TIP : - Do for all services same method.
 
