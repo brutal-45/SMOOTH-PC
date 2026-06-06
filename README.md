@@ -18,5 +18,5 @@
 
  3.  **For All Tv Channel** → [Tv](./tv.md/)
 
- 4.  **Suspend BitLocker** → [Stop-Bitlocker-guide](./BitLocker-stop.md)
+ 4.  **Suspend BitLocker** → [Stop-Bitlocker-guide](./BitLocker-Stop.md)
  
