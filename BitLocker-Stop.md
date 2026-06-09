@@ -1,6 +1,6 @@
 Here asking every time bitlocker recovery key when we boot pc , guide to stop this..
 
-Ah, that explains exactly what is happening!
+Ah, that explains exactly what is happening! 
 
 When you disable **Secure Boot** in your BIOS/UEFI settings, Windows sees this as a major security environment change. Because BitLocker is designed to protect your data from tampering, it panics, assumes someone is trying to break into the drive, and locks itself down. That is why it demands the 48-digit Recovery Key when you try to switch back to Windows.
 
