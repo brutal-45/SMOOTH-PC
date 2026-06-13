@@ -1,4 +1,4 @@
-Here asking every time bitlocker recovery key when we boot pc , guide to stop this..
+Here asking every time bitlocker recovery key when we boot pc , guide to stop this.. 
 
 Ah, that explains exactly what is happening! 
 
