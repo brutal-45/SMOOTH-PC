@@ -20,5 +20,5 @@
 
  4.  **Suspend BitLocker** → [Stop-Bitlocker-guide](./BitLocker-Stop.md)
 
- 5.  **Yarrlist Free Content** → [YarrList-Free-Worldwide-Content](./YarrLIst.md)
+ 5.  **Yarrlist Free Content** → [YarrList-Free-Worldwide-Content](./YarrList.md)
  
