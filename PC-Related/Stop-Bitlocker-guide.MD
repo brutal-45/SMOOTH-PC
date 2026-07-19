@@ -1,4 +1,6 @@
-Here is the line-by-line breakdown of exactly what each part of those commands is doing behind the scenes.
+In PowerShell, instead of just typing the drive letter by itself, you have to use the parameter -MountPoint to tell the system which drive you are targeting.
+
+Here is how those commands look:
 
 ## 1. The PowerShell Commands
 
