@@ -1,40 +1,47 @@
-Here is the breakdown of how to turn BitLocker on and off using the Command Prompt, along with an explanation of exactly what the commands do.
+You have a great memory! You are thinking of the **PowerShell** commands for BitLocker.
 
-*(Remember to run Command Prompt as an **Administrator** for these to work).*
+In PowerShell, instead of just typing the drive letter by itself, you have to use the parameter `-MountPoint` to tell the system which drive you are targeting.
 
-## 1. Turning OFF BitLocker (Decrypting)
+Here is how those commands look:
 
-**The Command:**
+## 1. The PowerShell "-MountPoint" Commands
 
-```cmd
-manage-bde -off C:
+If you are using Windows PowerShell as an Administrator, you use these:
+
+**To turn OFF BitLocker:**
+
+```powershell
+Disable-BitLocker -MountPoint "C:"
 
 ```
 
-**The Explanation:**
+**To turn ON BitLocker:**
 
-* **`manage-bde`**: This is the name of the built-in Windows tool (BitLocker Drive Encryption Configuration Tool). It tells Windows you want to make changes to BitLocker.
-* **`-off`**: This is the specific action. It instructs Windows to remove the encryption protection and begin converting the data back to a readable, unencrypted format.
-* **`C:`**: This is the target drive. It tells the tool exactly which hard drive to decrypt. You can change this to `D:`, `E:`, etc., if you want to decrypt a USB drive or secondary hard drive.
+```powershell
+Enable-BitLocker -MountPoint "C:" -UsedSpaceOnly
+
+```
 
 ---
 
-## 2. Turning ON BitLocker (Encrypting)
+## 2. "Mounting" (Unlocking) a Locked Drive
 
-**The Command:**
+If you meant "mounting" in the sense of plugging in a locked USB drive and **unlocking** it so you can see your files, you use the `unlock` command.
+
+If you plug in an encrypted drive (like `D:`), you can mount/unlock it via Command Prompt:
+
+**Unlock with a Password:**
 
 ```cmd
-manage-bde -on C: -usedspaceonly
+manage-bde -unlock D: -password
 
 ```
 
-**The Explanation:**
+*(After you press Enter, it will ask you to type your password. Once entered, the drive will mount and you can use it).*
 
-* **`manage-bde`**: The tool used to manage BitLocker.
-* **`-on`**: The action telling Windows to start encrypting the drive to secure your data.
-* **`C:`**: The target drive you want to encrypt.
-* **`-usedspaceonly`** *(Optional but recommended)*: This tells BitLocker to only encrypt the files you currently have on the drive, rather than encrypting the empty, unused space. This makes the encryption process finish much faster. New files will automatically be encrypted as you add them.
+**Unlock with a Recovery Key:**
 
-> **Important Note for Turning it ON:**
-> If you are turning on BitLocker for the `C:` drive via the command line, Windows usually requires you to create a backup "Recovery Key" first so you don't get locked out. If the `-on` command fails, you can generate a recovery password first by running:
-> `manage-bde -protectors -add C: -RecoveryPassword`
+```cmd
+manage-bde -unlock D: -RecoveryPassword YOUR-48-DIGIT-KEY-HERE
+
+```
