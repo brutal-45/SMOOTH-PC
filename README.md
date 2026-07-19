@@ -12,13 +12,13 @@
 - Before Doing This Create A Restore Point In Your Pc.
  
  
- 1. **Stop this Services** → [Services](#-Stop-this-services.Md/)
+ 1. **Stop this Services** → [Services](PC-Related/Stop-this-services.Md/)
 
  2. **Prompts For Generate Images** → [prompts](./Prompts/)
 
  3.  **For All Tv Channel** → [Tv](./tv.md/)
 
- 4.  **Suspend BitLocker** → [Stop-Bitlocker-guide](./BitLocker-Stop.md/)
+ 4.  **Suspend BitLocker** → [Stop-Bitlocker-guide](PC-Related/BitLocker-Stop.md/)
 
  5.  **Yarrlist Free Content** → [YarrList-Free-Worldwide-Content](./YarrList.md/)
  
