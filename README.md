@@ -18,7 +18,7 @@
 
  3.  **For All Tv Channel** → [Tv](./tv.md/)
 
- 4.  **Suspend BitLocker** → [Stop-Bitlocker-guide](PC-Related/BitLocker-Stop.md)
+ 4.  **Suspend BitLocker** → [Stop-Bitlocker-guide](PC-Related/Stop-Bitlocker-guide.MD)
 
  5.  **Yarrlist Free Content** → [YarrList-Free-Worldwide-Content](./YarrList.md/)
  
