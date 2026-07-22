@@ -14,7 +14,7 @@
  
  1. **Stop this Services** → [Services](PC-Related/Stop-this-services.Md)
 
- 2. **Prompts For Generate Images** → [prompts](./Prompts/)
+ 2. **Prompts For Generate Images** → [Prompts](./Prompts/)
 
  3.  **For All Tv Channel** → [Tv](./tv.md/)
 
