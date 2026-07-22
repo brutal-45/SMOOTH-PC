@@ -24,5 +24,5 @@
 
  6.  **Best Free Streaming Sites** → [Best free streaming sites collection](Websites-Need-You/Best-Streaming-Sites.MD)
 
- 7.  **Time-saving keyboard shortcuts for  Chrome or Browser** → [Chrome-Web-Browser-Keyboard-Shortcuts]()
+ 7.  **Time-saving keyboard shortcuts for  Chrome or Browser** → [Chrome-Web-Browser-Keyboard-Shortcuts](PC-Related/Chrome-Web-Browser-Keyboard-Shortcut.MD)
  
