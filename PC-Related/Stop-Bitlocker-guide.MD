@@ -1,4 +1,4 @@
-In PowerShell, instead of just typing the drive letter by itself, you have to use the parameter -MountPoint to tell the system which drive you are targeting. 
+In PowerShell, instead of just typing the drive letter by itself, you have to use the parameter -MountPoint to tell the system which drive you are targeting.
 
 Here is how those commands look:
 
