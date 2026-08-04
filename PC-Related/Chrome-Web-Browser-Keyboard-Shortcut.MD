@@ -1,4 +1,4 @@
-Here are the most essential and time-saving keyboard shortcuts for Google Chrome, organized by how you'll use them.
+Here are the most essential and time-saving keyboard shortcuts for Google Chrome, organized by how you'll use them. 
 
 ## Tab & Window Management
 
