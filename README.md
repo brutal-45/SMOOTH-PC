@@ -1,4 +1,4 @@
-<div center="center"
+<div center="center" 
   
   # SMOOTH-PC
  
