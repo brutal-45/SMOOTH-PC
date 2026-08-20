@@ -1,57 +1,49 @@
-# Yarrlist: Explore World Of Piracy And Here All Free content Links... 
+# New Domain:
 
-## New Domain:
+https://yarrlists.net/
 
-https://yarrlist.net/
+# Backup Domain:
 
-## Backups:
-
-https://yarrlist.xyz/
-
-https://yarrlist.icu/
-
-https://ahoylist.net/
-
-https://yarlist.org/
+New Version: https://topweblist.net/  
 
 
+<!--
+Welcome to the YarrList Watch Movies and Tv series online, Free movie websites, Watch sports events live online, Free streaming sites like crichd, sportsurge, buffstreams and more.
+-->
 
-Welcome to the YarrList wiki!
-# [🍿Movies and TV Shows](https://yarrlist.net/movies-and-tv-shows)
-Watch films and series online for free
+Welcome to the YarrList
+# [🍿Movies and TV Shows](https://yarrlists.net/movies-and-tv-shows)
+Watch Movies and Tv series online | Free movie websites
 
-# [🐉Anime](https://yarrlist.net/anime-list)
-Stream or download anime episodes
+# [🐉Anime](https://yarrlists.net/anime-list)
+Watch free online or download anime episodes | best streaming sites
 
-# [⚾Live Sports](https://yarrlist.net/sports-live-streaming)
-Watch sports events live
+# [⚾Live Sports](https://yarrlists.net/sports-live-streaming)
+Watch sports events live online | Free streaming sites
 
-# [📺Live TV](https://yarrlist.net/live-tv-list)
-Watch TV channels live from around the world
+# [⬇️Torrents](https://yarrlists.net/torrent-sites-list)
+Get movies, games, and more through peer-to-peer sharing.
 
-# [📙Manga](https://yarrlist.net/manga-list)
-Stay up to date with the latest manga releases
+# [📺Live TV](https://yarrlists.net/live-tv-list)
+Watch live TV channels from around
 
-# [⬇️Torrents](https://yarrlist.net/torrent-sites-list)
-Download movies, games, and more via peer-to-peer sharing
+# [📙Manga](https://yarrlists.net/manga-list)
+Watch latest manga releases online now
 
-# [🦸Comics](https://yarrlist.net/comics-list)
-Enjoy digital comics from top publishers
+# [🦸Comics](https://yarrlists.net/comics-list)
+Read digital comics from leading publishers.
 
-# [🎮Games](https://yarrlist.net/games-download-sites)
-Play or download free PC and console games
-
-# [🎶Music](https://yarrlist.net/music-download-sites-list)
-Stream or download songs and albums for free
-
-# [📚eBooks](https://yarrlist.net/ebooks-list)
-Read or download books in digital formats
-
-# [🎭Asian Drama](https://yarrlist.net/asian-drama-list)
-Watch Dramas from Asia
-
-# [👁️‍🗨️Adblockers](https://yarrlist.net/adblockers-list)
+# [👁️‍🗨️Adblockers](https://yarrlists.net/adblockers-list)
 Block ads and pop-ups for a smoother browsing experience
 
-# [🔏VPN](https://yarrlist.net/list-with-best-vpn-service-2025)
-Protect your privacy and access restricted content online.
+# [🎮Games](https://yarrlists.net/games-download-sites)
+Play or download games for PC and consoles.
+
+# [🎶Music](https://yarrlists.net/music-download-sites-list)
+Listen to or download songs and albums at no cost.
+
+# [📚eBooks](https://yarrlists.net/ebooks-list)
+Browse or download books in digital formats.
+
+# [🔏VPN](https://yarrlists.net/list-with-best-vpn-service-2025)
+Keep your online activity private and unlock restricted content.
