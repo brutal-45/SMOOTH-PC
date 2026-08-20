@@ -85,7 +85,7 @@ SMOOTH-PC/
 ### 1️⃣ Create a Restore Point (Windows)
 ```powershell
 # Run as Administrator
-Enable-ComputerRestore -Drive "C:\"
+Enable-ComputerRestore -Drive "C:\\"
 Checkpoint-Computer -Description "Before Optimization" -RestorePointType "MODIFY_SETTINGS"
 ```
 
@@ -144,13 +144,13 @@ Checkpoint-Computer -Description "Before Optimization" -RestorePointType "MODIFY
 ## 💡 Pro Tips
 
 > ✨ **Performance**: Regularly clean temporary files and disable startup apps
-> 
+>
 > 🔐 **Security**: Keep Windows updated and use strong passwords
-> 
+>
 > 🎮 **Gaming**: Update GPU drivers for best performance
-> 
+>
 > 🤖 **AI**: Save successful prompts for future use
-> 
+>
 > 📺 **Streaming**: Use ad blockers for safer browsing
 
 ---
@@ -199,7 +199,7 @@ Contributions are welcome! Feel free to:
 
 ## ⚖️ Disclaimer
 
-This project is provided **as-is** for educational and informational purposes only. 
+This project is provided **as-is** for educational and informational purposes only.
 
 - ⚠️ Always create backup before making system changes
 - ⚠️ Some optimizations may not work on all systems
@@ -223,3 +223,4 @@ MIT License - See LICENSE file for details
 ⭐ **Star this repo if you found it helpful!** ⭐
 
 </div>
+ 
