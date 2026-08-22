@@ -1,4 +1,4 @@
-# 🔒 Windows Security & Privacy Guide
+# 🔒 Windows Security & Privacy Guide 
 
 Essential security configurations to protect your privacy and secure your Windows system.
 
