@@ -1,4 +1,4 @@
-# 🎮 Gaming Optimization Guide 
+# 🎮 Gaming Optimization Guide
 
 Maximize your FPS and reduce input lag with these proven optimization techniques.
 
