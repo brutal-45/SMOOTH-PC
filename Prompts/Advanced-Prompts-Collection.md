@@ -1,4 +1,4 @@
-# 🤖 Advanced AI Prompts Collection
+# 🤖 Advanced AI Prompts Collection 
 
 Professional-grade prompts for generating high-quality AI images, text, and creative content.
 
